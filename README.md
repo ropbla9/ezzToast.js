@@ -1,0 +1,2 @@
+# ezzToast.js
+asdadasd
